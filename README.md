@@ -38,7 +38,8 @@ This project demonstrates an **end-to-end fraud detection pipeline** using Pytho
    - Users can input transaction details.
    - Predicts whether a transaction is **fraudulent** or **legitimate**.
    - Provides interactive visualization of predictions.
- 
+  
+<img width="458" height="284" alt="image" src="https://github.com/user-attachments/assets/64c5ac37-897e-4de2-8164-d116ac46eca3" />
 
 ---
 
